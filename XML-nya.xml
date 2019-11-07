@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Yayasan>
+    <Sekolah nama="Methodist-2 Medan">
+        <Kepala_Sekolah>Drs. Paulus Subianto</Kepala_Sekolah>
+        <Jumlah_Siswa>2734</Jumlah_Siswa>
+        <Uang_Sekolah>Rp 750.000</Uang_Sekolah>
+        <Uang_Pembangunan>Rp 2.000.000</Uang_Pembangunan>
+        <Alamat>Jl. MH. Thamrin No. 96, Pasar baru</Alamat>
+        <Akreditasi>A</Akreditasi>
+        <Jenis_Sekolah>Swasta</Jenis_Sekolah>
+        <Jam_Aktif>Pukul 6.50 - 17.00 WIB</Jam_Aktif>
+        <Jumlah_Karyawan>162</Jumlah_Karyawan>
+    </Sekolah>
+
+    <Sekolah nama="Lentera Harapan">
+        <Kepala_Sekolah>Ester Lasek</Kepala_Sekolah>
+        <Jumlah_Siswa>240</Jumlah_Siswa>
+        <Uang_Sekolah>Rp 400.000</Uang_Sekolah>
+        <Uang_Pembangunan>Rp 1.500.000</Uang_Pembangunan>
+        <Alamat>Jl. Arah Awa'ai Km. 12,5 Afia, Gunungsitoli Utara</Alamat>
+        <Akreditasi>A</Akreditasi>
+        <Jenis_Sekolah>Swasta</Jenis_Sekolah>
+        <Jam_Aktif>Pukul 07.00 - 18.00 WIB</Jam_Aktif>
+        <Jumlah_Karyawan>43</Jumlah_Karyawan>
+    </Sekolah>
+
+    <Sekolah nama="Methodist-1">
+        <Kepala_Sekolah>Pdt. Samidi Sitorus</Kepala_Sekolah>
+        <Jumlah_Siswa>810</Jumlah_Siswa>
+        <Uang_Sekolah>Rp 450.000</Uang_Sekolah>
+        <Uang_Pembangunan>Rp 1.000.000</Uang_Pembangunan>
+        <Alamat>Jl. HangTuah No.4, Madras Hulu</Alamat>
+        <Akreditasi>A</Akreditasi>
+        <Jenis_Sekolah>Swasta</Jenis_Sekolah>
+        <Jam_Aktif>Pukul 07.15 - 13.30 WIB</Jam_Aktif>
+        <Jumlah_Karyawan>55</Jumlah_Karyawan>
+    </Sekolah>
+
+    <Sekolah nama="Unggulan Sukma Nias">
+        <Kepala_Sekolah>Faaso Ndraha</Kepala_Sekolah>
+        <Jumlah_Siswa>1080</Jumlah_Siswa>
+        <Uang_Sekolah>Rp 100.000</Uang_Sekolah>
+        <Uang_Pembangunan>Rp 200.000</Uang_Pembangunan>
+        <Alamat>Jl. Nias Tengah Km. 7.5, Gunung Sitoli Selaan</Alamat>
+        <Akreditasi>A</Akreditasi>
+        <Jenis_Sekolah>Negeri</Jenis_Sekolah>
+        <Jam_Aktif>Pukul 07.10 - 17.00 WIB</Jam_Aktif>
+        <Jumlah_Karyawan>60</Jumlah_Karyawan>
+    </Sekolah>
+</Yayasan>
