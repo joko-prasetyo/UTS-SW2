@@ -1,0 +1,55 @@
+@prefix ns0: <http://sekolahku.sch.id#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+
+<https://yayasansekolah.com/#Yayasan> ns0:Sekolah <https://yayasansekolah.com/#Methodist2>, <https://yayasansekolah.com/#Lentera_Harapan>, <https://yayasansekolah.com/#Methodist1>, <https://yayasansekolah.com/#Unggulan_Sukma_Nias> .
+<https://yayasansekolah.com/#Methodist2>
+  a rdfs:Class ;
+  foaf:Kepala_Sekolah "Drs. Paulus Subianto" ;
+  foaf:Jumlah_Siswa "2734" ;
+  foaf:Uang_Sekolah "Rp 750.000" ;
+  foaf:Uang_Pembangunan "Rp 2.000.000" ;
+  foaf:Alamat "Jl. MH. Thamrin No. 96, Pasar baru" ;
+  foaf:Akreditasi "A" ;
+  foaf:Jenis_Sekolah "Swasta" ;
+  foaf:Jam_Aktif "Pukul 6.50 - 17.00 WIB" ;
+  foaf:Jumlah_Karyawan "162" ;
+  rdfs:subClassOf <https://yayasansekolah.com/#Yayasan> .
+
+<https://yayasansekolah.com/#Lentera_Harapan>
+  a rdfs:Class ;
+  foaf:Kepala_Sekolah "Ester Lasek" ;
+  foaf:Jumlah_Siswa "240" ;
+  foaf:Uang_Sekolah "Rp 400.000" ;
+  foaf:Uang_Pembangunan "Rp 1.500.000" ;
+  foaf:Alamat "Jl. Arah Awa'ai Km. 12,5 Afia, Gunungsitoli Utara" ;
+  foaf:Akreditasi "A" ;
+  foaf:Jenis_Sekolah "Swasta" ;
+  foaf:Jam_Aktif "Pukul 07.00 - 18.00 WIB" ;
+  foaf:Jumlah_Karyawan "43" ;
+  rdfs:subClassOf <https://yayasansekolah.com/#Yayasan> .
+
+<https://yayasansekolah.com/#Methodist1>
+  a rdfs:Class ;
+  foaf:Kepala_Sekolah "Pdt. Samidi Sitorus" ;
+  foaf:Jumlah_Siswa "810" ;
+  foaf:Uang_Sekolah "Rp 450.000" ;
+  foaf:Uang_Pembangunan "Rp 1.000.000" ;
+  foaf:Alamat "Jl. HangTuah No.4, Madras Hulu" ;
+  foaf:Akreditasi "A" ;
+  foaf:Jenis_Sekolah "Swasta" ;
+  foaf:Jam_Aktif "Pukul 07.15 - 13.30 WIB" ;
+  foaf:Jumlah_Karyawan "55" ;
+  rdfs:subClassOf <https://yayasansekolah.com/#Yayasan> .
+
+<https://yayasansekolah.com/#Unggulan_Sukma_Nias>
+  a rdfs:Class ;
+  foaf:Kepala_Sekolah "Faaso Ndraha" ;
+  foaf:Jumlah_Siswa "1080" ;
+  foaf:Uang_Sekolah "Rp 100.000" ;
+  foaf:Uang_Pembangunan "Rp 200.000" ;
+  foaf:Alamat "Jl. Nias Tengah Km. 7.5, Gunung Sitoli Selaan" ;
+  foaf:Akreditasi "A" ;
+  foaf:Jenis_Sekolah "Negeri" ;
+  foaf:Jam_Aktif "Pukul 07.10 - 17.00 WIB" ;
+  foaf:Jumlah_Karyawan "60" .
