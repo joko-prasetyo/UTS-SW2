@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="No1.xsl"?>
 <Yayasan>
     <Sekolah nama="Methodist-2 Medan">
+        <Nama_Sekolah>Methodist-2 Medan</Nama_Sekolah>
         <Kepala_Sekolah>Drs. Paulus Subianto</Kepala_Sekolah>
         <Jumlah_Siswa>2734</Jumlah_Siswa>
         <Uang_Sekolah>Rp 750.000</Uang_Sekolah>
@@ -14,6 +15,7 @@
     </Sekolah>
 
     <Sekolah nama="Lentera Harapan">
+        <Nama_Sekolah>Lantera Harapan</Nama_Sekolah>
         <Kepala_Sekolah>Ester Lasek</Kepala_Sekolah>
         <Jumlah_Siswa>240</Jumlah_Siswa>
         <Uang_Sekolah>Rp 400.000</Uang_Sekolah>
@@ -26,6 +28,7 @@
     </Sekolah>
 
     <Sekolah nama="Methodist-1">
+        <Nama_Sekolah>Methodist-1</Nama_Sekolah>
         <Kepala_Sekolah>Pdt. Samidi Sitorus</Kepala_Sekolah>
         <Jumlah_Siswa>810</Jumlah_Siswa>
         <Uang_Sekolah>Rp 450.000</Uang_Sekolah>
@@ -38,6 +41,7 @@
     </Sekolah>
 
     <Sekolah nama="Unggulan Sukma Nias">
+        <Nama_Sekolah>Unggulan Sukma Nias</Nama_Sekolah>
         <Kepala_Sekolah>Faaso Ndraha</Kepala_Sekolah>
         <Jumlah_Siswa>1080</Jumlah_Siswa>
         <Uang_Sekolah>Rp 100.000</Uang_Sekolah>
