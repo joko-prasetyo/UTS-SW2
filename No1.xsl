@@ -27,6 +27,7 @@
         <h2>Daftar Sekolah</h2>
                 <table border="1">
                     <tr bgcolor="red">
+                        <th>Nama Sekolah</th>
                         <th>Kepala Sekolah</th>
                         <th>Jumlah Siswa</th>
                         <th>Uang Sekolah</th>
@@ -39,6 +40,7 @@
                     </tr>
                     <xsl:for-each select="Yayasan/Sekolah">
                     <tr>
+                        <td><xsl:value-of select="Nama_Sekolah"/></td>
                         <td><xsl:value-of select="Kepala_Sekolah"/></td>
                         <td><xsl:value-of select="Jumlah_Siswa"/></td>
                         <td><xsl:value-of select="Uang_Sekolah"/></td>
